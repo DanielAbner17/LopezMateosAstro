@@ -19,8 +19,8 @@ export default {
         footer: '2rem',
       },
       colors: {
-        primary: '#468bc2',
-        secondary: '#ea0a72',
+        primary: '#ffd55f',
+        secondary: '#1f2d52',
         accent: '#969696',
       },
       fontFamily: {
