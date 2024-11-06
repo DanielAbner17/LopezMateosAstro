@@ -3,7 +3,7 @@ import Fuse from 'fuse.js';
 import DirectorioItem from '@components/common/DirectorioItem';
 import type { Store } from 'src/data/stores';
 import ToggleButton from '@components/common/ToggleButton';
-import Mapa from '@images/mapa.jpg';
+import Mapa from '@images/mapa.webp';
 
 const CATEGORY_COLORS = {
   'Bancos y Servicios Financieros': 'bg-[#34a936]',
